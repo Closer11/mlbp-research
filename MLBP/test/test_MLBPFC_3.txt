@@ -1,0 +1,27 @@
+m03_n005_p040_q020 -> Value: 4245.7 -> Time: 0.0122
+m03_n005_p040_q040 -> Value: 4936.6 -> Time: 0.0245
+m03_n005_p040_q060 -> Value: 4938.8 -> Time: 0.0247
+m03_n005_p120_q020 -> Value: 4285.1 -> Time: 0.0062
+m03_n005_p120_q040 -> Value: 5396.7 -> Time: 0.0372
+m03_n005_p120_q060 -> Value: 4706.4 -> Time: 0.0402
+m03_n010_p040_q020 -> Value: 7837.4 -> Time: 0.7214
+m03_n010_p040_q040 -> Value: 8060.4 -> Time: 0.7263
+m03_n010_p040_q060 -> Value: 8452.4 -> Time: 1.8854
+m03_n010_p120_q020 -> Value: 7729.8 -> Time: 0.6292
+m03_n010_p120_q040 -> Value: 7415.8 -> Time: 0.8621
+m03_n010_p120_q060 -> Value: 7812.1 -> Time: 0.9714
+
+m03_n015_p040_q020 -> Value: 10375.9 -> Time: 10.2826
+error: m03_n015_p040_q040__004 -> Status: Feasible -> Value: 13002 -> Time: 899.046
+m03_n015_p040_q040 -> Value: 10489.6 -> Time: 51.7428 --- 136.4731 - 89.9046 ) / 9 * 10 = 51.7428
+m03_n015_p040_q060 -> Value: 10154.8 -> Time: 42.5904
+
+error: m03_n015_p120_q020__002 -> Status: Feasible -> Value: 13951 -> Time: 899.25
+m03_n015_p120_q020 -> Value: 11047.0 -> Time: 64.6384 --- 148.0996 - 89.925 ) / 9 * 10 = 64.6384
+error: m03_n015_p120_q040__001 -> Status: Feasible -> Value: 13177 -> Time: 898.656
+m03_n015_p120_q040 -> Value: 10664.4 -> Time: 77.6647 --- 159.7638 - 89.8656 ) / 9 * 10 = 77.6647
+error: m03_n015_p120_q060__003 -> Status: Feasible -> Value: 12102 -> Time: 899.078
+error: m03_n015_p120_q060__006 -> Status: Feasible -> Value: 13247 -> Time: 899
+error: m03_n015_p120_q060__007 -> Status: Feasible -> Value: 11172 -> Time: 899.25
+m03_n015_p120_q060 -> Value: 11370.7 -> Time: 454.0466
+4 infeasible solutions

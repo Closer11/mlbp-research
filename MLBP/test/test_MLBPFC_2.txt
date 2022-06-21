@@ -1,0 +1,13 @@
+error: m02_n020_p040_q020__001 -> Status: Feasible -> Value: 12541 -> Time: 899.125
+m02_n020_p040_q020 -> Value: 10364.3 -> Time: 135.5068 --- 211.8686 - 89.9125 ) / 9 * 10 = 135.5068
+error: m02_n020_p040_q040__002 -> Status: Feasible -> Value: 10412 -> Time: 898.906
+error: m02_n020_p040_q040__003 -> Status: Feasible -> Value: 9999 -> Time: 899.187
+error: m02_n020_p040_q040__004 -> Status: Feasible -> Value: 10467 -> Time: 899.046
+error: m02_n020_p040_q040__008 -> Status: Feasible -> Value: 10395 -> Time: 898.921
+error: m02_n020_p040_q040__009 -> Status: Feasible -> Value: 10419 -> Time: 899.125
+m02_n020_p040_q040 -> Value: 9919.0 -> Time: 517.3574
+error: m02_n020_p040_q060__000 -> Status: Feasible -> Value: 6740 -> Time: 898.703
+error: m02_n020_p040_q060__003 -> Status: Feasible -> Value: 9382 -> Time: 898.828
+error: m02_n020_p040_q060__008 -> Status: Feasible -> Value: 10400 -> Time: 899.062
+m02_n020_p040_q060 -> Value: 9626.8 -> Time: 574.8669
+4 infeasible solutions

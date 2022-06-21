@@ -1,0 +1,3 @@
+m04_n0045 -> Value: 49858.3 -> Time: 0.003
+m04_n0050 -> Value: 56774.5 -> Time: 0.0
+12 infeasible solutions
